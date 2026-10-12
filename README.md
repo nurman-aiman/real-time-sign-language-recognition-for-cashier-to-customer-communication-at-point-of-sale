@@ -1,19 +1,24 @@
-# Hi, I'm Nurman Aiman
+# Sign Language to Text and Speech (BIM)
 
-Computer Science student at UiTM interested in AI, computer vision and accessibility.
+A study of the communication problem faced by Deaf Malaysians who use Malaysian Sign Language (BIM), and the computer vision technology that could help address it. This is my CSC649 Assignment 1 package and the groundwork for my Final Year Project.
 
-## About me
-- Studying: Computer Science (CDCS230), UiTM
-- Currently learning: Python, computer vision (OpenCV, MediaPipe), neural networks (MLP and LSTM), Git and GitHub
-- My FYP area: AI for accessibility, real-time Malaysian Sign Language (BIM) recognition to text and speech
+## Problem statement
 
-## Skills and tools
-Python, OpenCV, MediaPipe, NumPy, scikit-learn, Git, GitHub, VS Code
+Many Deaf people in Malaysia use Malaysian Sign Language (BIM), but most hearing people they meet in daily life, such as clinic receptionists, pharmacists, cashiers, bank tellers, teachers and police officers, do not understand it. The problem is that there are very few interpreters, so in these situations a deaf person often has no one to help them communicate, or has to wait days for one (Asia News Network, 2025). This matters because without interpreters, deaf people in Malaysia find it harder to get education, legal help, healthcare and jobs (Asia News Network, 2025).
 
-## Projects
-- Sign language to text and speech (FYP, in progress): a camera-based system that recognises BIM and turns it into text and speech. The repository is private for now.
-- Campus event registration (CSC649 coursework): a web system for browsing and registering for campus events. The repository is private for now.
+## Documents
+- [Problem statement](docs/problem-statement.md)
+- [Requirements](docs/requirements.md)
+- [User stories](docs/user-stories.md)
 
-## Contact
-- LinkedIn: [your profile link]
-- Email: [a professional email address]
+## Technology
+Computer vision (with deep learning)
+
+## Status
+In progress
+
+## Author
+Nurman Aiman, UiTM, CSC649
+
+## References
+- Asia News Network. (2025, October 3). *Only 60 interpreters for 44,000 deaf Malaysians: why the community struggles*. https://asianews.network/only-60-interpreters-for-44000-deaf-malaysians-why-the-community-struggles
