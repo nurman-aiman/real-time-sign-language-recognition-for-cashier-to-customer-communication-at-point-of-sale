@@ -14,4 +14,4 @@
 2. The system shall correctly recognise at least 90% of the supported signs in tests with at least 3 people who were not in the training data.
 3. The system shall process the camera video in the browser on the POS computer and shall not store or send any video or images.
 4. The system shall only display the recognised text and shall not change the cart, prices or payment by itself.
-5. A new cashier shall be able to start the sign language option within 5 minutes without help.
+5. A new cashier shall be able to start the sign language option within 5 minutes without help
