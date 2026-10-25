@@ -1,6 +1,6 @@
 # Real-Time Sign Language Recognition for Cashier to Customer Communication at Point-of-Sale
 
-A study of the communication problem faced by Deaf Malaysians who use Malaysian Sign Language (BIM), and the computer vision technology that could help address it. This is my CSC649 Assignment 1 package and the groundwork for my Final Year Project.
+This project focuses on the communication challenges that are faced by Deaf Malaysian who use Malaysian Sign Language (BIM) when shopping and ordering. It explore how computer vision technology can help improve communication between deaf customers and the cashiers. This project is part of my CSC649 Assignment 1 as serves as the foundation for my Final Year Project (FYP)
 
 ## Problem statement
 
